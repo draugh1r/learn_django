@@ -1,0 +1,1 @@
+Small project while learning django
